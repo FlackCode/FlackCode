@@ -3,6 +3,6 @@
 
 ## 📚 Current Knowledge:
 <p>
-  <img src="https://raw.githubusercontent.com/2lay/2lay/main/img/javascript.png" height="40" style="vertical-align:down; margin:4px" alt="JavaScript" title="JavaScript">
-  
+  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/javascript.png" height="40" style="vertical-align:down; margin:6px" alt="JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/html.png" height="40" style="vertical-align:down; margin:6px" alt="HTML" title="HTML">
 </p>
