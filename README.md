@@ -8,13 +8,14 @@
   <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/html.png" height="40" style="vertical-align:down; margin:6px" alt="HTML" title="HTML">
   <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/javascript.png" height="40" style="vertical-align:down; margin:6px" alt="JavaScript" title="JavaScript">
   <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/node.png" height="40" style="vertical-align:down; margin:6px" alt="NODE" title="NODE">
+  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/react.png" height="40" style="vertical-align:down; margin:6px" alt="REACT" title="REACT">
+  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/tailwind.png" width="50" height="40" style="vertical-align:down; margin:6px" alt="TAILWIND" title="TAILWIND">
 
 </p>
 
 **Have some knowledge in / learning**
 <p>
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/react.png" height="40" style="vertical-align:down; margin:6px" alt="REACT" title="REACT">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/tailwind.png" width="50" height="40" style="vertical-align:down; margin:6px" alt="TAILWIND" title="TAILWIND">
+  
   <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/cpp.png" height="40" style="vertical-align:down; margin:6px" alt="C++" title="C++">
   <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/python.png" height="40" style="vertical-align:down; margin:6px" alt="PYTHON" title="PYTHON">
 
