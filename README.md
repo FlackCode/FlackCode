@@ -1,33 +1,36 @@
 <h1 align="center">Hello, my name is Flack</h1>
-<p align="center">I am a beginner webdev trying to learn as many things as possible!</p>
+<p align="center">I am a FullStack Web Developer, always learning new things!</p>
 
-## 📚 Knowledge:
-**Learned:**
+## 📚 My Knowledge:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 <p>
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/css.png" height="40" style="vertical-align:down; margin:6px" alt="CSS" title="CSS">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/html.png" height="40" style="vertical-align:down; margin:6px" alt="HTML" title="HTML">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/javascript.png" height="40" style="vertical-align:down; margin:6px" alt="JavaScript" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/node.png" height="40" style="vertical-align:down; margin:6px" alt="NODE" title="NODE">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/react.png" height="40" style="vertical-align:down; margin:6px" alt="REACT" title="REACT">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/tailwind.png" width="50" height="40" style="vertical-align:down; margin:6px" alt="TAILWIND" title="TAILWIND">
-
+  Front-End:
 </p>
 
-**Have some knowledge in / learning**
-<p>
-  
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/cpp.png" height="40" style="vertical-align:down; margin:6px" alt="C++" title="C++">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/python.png" height="40" style="vertical-align:down; margin:6px" alt="PYTHON" title="PYTHON">
+[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind)](https://skillicons.dev)
 
+<p>
+  Back-End & Hosting:
 </p>
 
-**Will learn in the future:**
+[![My Skills](https://skillicons.dev/icons?i=bun,cloudflare,workers,postman,vercel)](https://skillicons.dev)
+
 <p>
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/typescript.png" height="40" style="vertical-align:down; margin:6px" alt="TYPESCRIPT" title="TYPESCRIPT">
-  <img src="https://raw.githubusercontent.com/FlackCode/Flack/main/icons/csharp.png" height="40" style="vertical-align:down; margin:6px" alt="CSHARP" title="CSHARP">
+  Other languages:
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+
+<p>
+  Others:
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=ps,npm,nodejs,vscode,visualstudio,replit,windows)](https://skillicons.dev)
 
 ## ⛳️ Projects
-<h1 align="center">No projects here yet!</h1>
+- <a href='https://github.com/FlackCode/PersonalPage' target='_blank'>flack.net</a> 
+  <br/> My personal page. Link: https://personal-page-six-kappa.vercel.app
+- <a href='https://github.com/FlackCode/odin_CVApp' target='_blank'>Resume Builder</a> 
+  <br/> A very basic CV Builder made in React and TailwindCSS. Link: https://odin-cv-app-indol.vercel.app
 
 <sup ><sub>*bye*</sub></sup>
