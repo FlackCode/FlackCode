@@ -13,7 +13,7 @@
   Back-End & Hosting:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=bun,cloudflare,workers,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,bun,cloudflare,workers,vercel)](https://skillicons.dev)
 
 <p>
   Other languages:
@@ -32,5 +32,7 @@
   <br/> My personal page. Link: https://personal-page-six-kappa.vercel.app
 - <a href='https://github.com/FlackCode/odin_CVApp' target='_blank'>Resume Builder</a> 
   <br/> A very basic CV Builder made in React and TailwindCSS. Link: https://odin-cv-app-indol.vercel.app
+- <a href='https://github.com/FlackCode/fastType.net' target='_blank'>fastType.net</a> 
+  <br/> Typemonkey style website for training typing speed and find your WPM. Also has a realtime updating leaderboard made with Firebase. Link: https://fast-type-net.vercel.app/
 
 <sup ><sub>*bye*</sub></sup>
