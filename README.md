@@ -34,5 +34,7 @@
   <br/> A very basic CV Builder made in React and TailwindCSS. Link: https://odin-cv-app-indol.vercel.app
 - <a href='https://github.com/FlackCode/fastType.net' target='_blank'>fastType.net</a> 
   <br/> Typemonkey style website for training typing speed and find your WPM. Also has a realtime updating leaderboard made with Firebase. Link: https://fast-type-net.vercel.app/
+- <a href='' target='_blank'>STYLESHARE</a> 
+  <br/> Work in progress... No link yet.
 
 <sup ><sub>*bye*</sub></sup>
