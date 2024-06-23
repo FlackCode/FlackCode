@@ -7,7 +7,7 @@
   Front-End:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,nextjs)](https://skillicons.dev)
 
 <p>
   Back-End & Hosting:
@@ -19,7 +19,7 @@
   Other languages:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,dart,flutter,discordjs)](https://skillicons.dev)
 
 <p>
   Others:
@@ -34,7 +34,5 @@
   <br/> A very basic CV Builder made in React and TailwindCSS. Link: https://odin-cv-app-indol.vercel.app
 - <a href='https://github.com/FlackCode/fastType.net' target='_blank'>fastType.net</a> 
   <br/> Typemonkey style website for training typing speed and find your WPM. Also has a realtime updating leaderboard made with Firebase. Link: https://fast-type-net.vercel.app/
-- <a href='' target='_blank'>STYLESHARE</a> 
-  <br/> Work in progress... No link yet.
 
 <sup ><sub>*bye*</sub></sup>
