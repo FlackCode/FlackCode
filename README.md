@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Flack</h1>
-<p align="center">I am a FullStack Web Developer, always learning new things!</p>
+<p align="center">I am a Software Developer, always learning new things!</p>
 
 ## 📚 My Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
@@ -19,13 +19,13 @@
   Other languages:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,dart,flutter,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dart,flutter,discordjs)](https://skillicons.dev)
 
 <p>
   Others:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,npm,nodejs,vscode,visualstudio,replit,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,npm,nodejs,vscode,visualstudio,replit,windows,unity,blender)](https://skillicons.dev)
 
 ## ⛳️ Projects
 - <a href='https://github.com/FlackCode/PersonalPage' target='_blank'>flack.net</a> 
