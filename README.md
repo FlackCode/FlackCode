@@ -1,38 +1,20 @@
-<h1 align="center">Hello, my name is Flack</h1>
-<p align="center">I am a Software Developer, always learning new things!</p>
-
-## 📚 My Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-<p>
-  Front-End:
+<p float="left">
+    <samp>
+      hey i'm flack
+      <br>
+      <br>
+      my passions include coding, learning new technologies, and developing projects
+      <br>
+      i primarily code in typescript/javascript, but i also work with python, C++, C#, and dart
+      <br>
+      i'm currently learning more about backend development and gamedev
+      <br>
+      <br>
+      here's a few ways you can contact me:
+      <br>
+      > discord @flackkkk
+      <br>
+    </samp>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,nextjs)](https://skillicons.dev)
-
-<p>
-  Back-End & Hosting:
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,bun,cloudflare,workers,vercel)](https://skillicons.dev)
-
-<p>
-  Other languages:
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dart,flutter,discordjs)](https://skillicons.dev)
-
-<p>
-  Others:
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=ps,npm,nodejs,vscode,visualstudio,replit,windows,unity,blender)](https://skillicons.dev)
-
-## ⛳️ Projects
-- <a href='https://github.com/FlackCode/PersonalPage' target='_blank'>flack.net</a> 
-  <br/> My personal page. Link: https://personal-page-six-kappa.vercel.app
-- <a href='https://github.com/FlackCode/odin_CVApp' target='_blank'>Resume Builder</a> 
-  <br/> A very basic CV Builder made in React and TailwindCSS. Link: https://odin-cv-app-indol.vercel.app
-- <a href='https://github.com/FlackCode/fastType.net' target='_blank'>fastType.net</a> 
-  <br/> Typemonkey style website for training typing speed and find your WPM. Also has a realtime updating leaderboard made with Firebase. Link: https://fast-type-net.vercel.app/
-
-<sup ><sub>*bye*</sub></sup>
+<sup><sub>*bye*</sub></sup>
